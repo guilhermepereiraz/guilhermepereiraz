@@ -2,10 +2,6 @@
 
 - My name is Guilherme and i'm a Java Developer, from São Paulo, Brazil 🇧🇷
 
-## About Me
-- Content creator at [@buildrun.tech](https://github.com/buildrun-tech)
-- Tech Lead at [@Itau](https://github.com/itau)
-
 ## My Techs
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
