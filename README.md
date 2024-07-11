@@ -1,6 +1,6 @@
 ## 👋 Hi there, welcome to my Github profile
 
-- My name is Guilherme and i'm a Java Developer, from RJ, Brazil 🇧🇷
+- My name is Guilherme and i'm a Java Developer, from São Paulo, Brazil 🇧🇷
 
 ## About Me
 - Content creator at [@buildrun.tech](https://github.com/buildrun-tech)
